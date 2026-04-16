@@ -37,11 +37,19 @@ Key questions addressed:
 ## Project Structure
 
 ```
-├── Task 1 - Retail Strategy and Analytics (EDA & Segmentation)
-│   └── Retail-Strategy-and-Analytics---Task-1-revised.html
-│
-├── Task 2 - Store Trial Analysis
-│   └── Retail Strategy and Analytics - Task 2.html
+.
+├── LICENSE
+├── README.md
+├── task1
+│   ├── QVI_data.csv
+│   ├── QVI_purchase_behaviour.csv
+│   ├── QVI_transaction_data.xlsx
+│   ├── Retail Strategy and Analytics - Task 1.Rmd
+│   └── Retail-Strategy-and-Analytics---Task-1.html
+└── task2
+    ├── QVI_data.csv
+    ├── Retail Strategy and Analytics - Task 2.html
+    └── Retail Strategy and Analytics - Task 2.Rmd
 ```
 
 ## How to View the Project
