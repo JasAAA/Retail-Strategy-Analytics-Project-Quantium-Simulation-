@@ -66,7 +66,7 @@ This repository includes both the **final outputs** and the **full analytical wo
 
 * Open the `.Rmd` files in RStudio
 * Run the code chunks to reproduce the analysis step by step
-* Requires R and relevant packages (e.g., tidyverse, ggplot2)
+* Requires R and relevant packages
 
 ### Option 3: Download or Clone the Repository
 
@@ -81,7 +81,7 @@ You can access all project files locally:
 **Option B: Clone with Git (for technical users)**
 
 ```bash
-git clone https://github.com/JasAAA/Retail-Strategy-Analytics-Project-Quantium-Simulation-.git
+git clone https://github.com/JasAAA/Retail-Strategy-Analytics-Project-Quantium-Simulation.git
 ```
 ### Option 4: Explore the Data
 
