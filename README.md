@@ -4,10 +4,11 @@
 
 This project simulates a real-world retail analytics scenario provided by Quantium. The objective was to analyse customer transaction data and generate actionable insights to support strategic decision-making in a supermarket chips category.
 
-The project is divided into two key parts:
+The project is divided into three key parts:
 
 * **Task 1:** Exploratory Data Analysis & Customer Segmentation
 * **Task 2:** Store Trial Evaluation & Impact Analysis
+* **Task 3:** Presentation
 
 ## Business Problem
 
@@ -105,5 +106,9 @@ This project demonstrates the ability to:
 
 ## Reflection
 
-Through this project, I strengthened my ability to connect data analysis with business strategy. In future work, I would further enhance the analysis by incorporating more advanced statistical testing and predictive modelling.
+Through this project, I developed a structured approach to data analytics, starting from data cleaning to deriving actionable business insights. I learned the importance of aligning analysis with business objectives, ensuring that results are both accurate and meaningful.
+
+One key takeaway is that data alone is not enough. Understanding customer behaviour and translating findings into strategic recommendations is critical for decision-making.
+
+Additionally, I improved my ability to communicate insights clearly using visualisations and structured frameworks such as the Pyramid Principle.
 
